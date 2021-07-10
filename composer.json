@@ -1,0 +1,10 @@
+{
+    "name": "moneypulation/hello-world",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
